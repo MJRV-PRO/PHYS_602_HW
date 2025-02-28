@@ -13,5 +13,5 @@ def randomNumberGenerator(bounds):
   -------
   np.random.randint(bounds[0],bounds[1]) : int
   A random integer.
-""" 
-return np.random.randint(bounds[0],bounds[1])
+  """ 
+  return np.random.randint(bounds[0],bounds[1])
